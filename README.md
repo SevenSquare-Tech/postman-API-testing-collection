@@ -8,6 +8,8 @@ A collection lets you group individual requests together. These requests can be 
 accurately mirror your API. Requests can also store sample responses when saved in a collection. You can add metadata
 like name and description too so that all the information that a developer needs to use your API is available easily.
 
+[Here’s the Complete Guide to Automate API Testing Collection in Postman using JavaScript.](https://www.sevensquaretech.com/automate-postman-api-testing-javascript-github/)
+
 To know more about Postman Collections, visit the
 [collection documentation section on Postman Website](https://postman.com/collection/).
 
